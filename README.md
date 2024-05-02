@@ -1,5 +1,6 @@
 # SQL_baby-names
 
+<p> We analyse data published by the U.S. Social Security Administration with SQL to understand changing tastes in baby names over a period of 100 years. </p>
 
 <h3 id="baby_names"><code>baby_names</code></h3>
 <table>
